@@ -1,2 +1,2 @@
 just creat for edit file in master
-edited
+line 2 edited
